@@ -1,4 +1,4 @@
-package JavaCodes.Encapsulation;
+package Encapsulation;
 
 class Human{
     private int age;

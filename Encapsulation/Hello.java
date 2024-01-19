@@ -1,4 +1,4 @@
-package JavaCodes.Encapsulation;
+package Encapsulation;
 
 public class Hello {
     public static void main(String[] args) {
