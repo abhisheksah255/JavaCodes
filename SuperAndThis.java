@@ -15,14 +15,14 @@ class B extends A {
 		System.out.println("This is class B Constructor");
 	}
 	public B(int x) {
-		super(x);
+		this();
 		System.out.println("This is the Patametrized B contructor");
 	}
 }
 public class SuperAndThis {
 
 	public static void main(String[] args) {
-	B obj=new B();
+	B obj=new B(5);
 
 	}
 
